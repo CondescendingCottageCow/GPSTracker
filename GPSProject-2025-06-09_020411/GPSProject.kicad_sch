@@ -4096,16 +4096,6 @@
 		)
 		(uuid "2b3fc59b-fea2-441f-a4a4-fee4d8e6e509")
 	)
-	(text "hoi"
-		(exclude_from_sim no)
-		(at 152.908 98.044 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "5d2cffdf-9a86-49a6-a3c4-70d259035f6e")
-	)
 	(junction
 		(at 62.23 20.32)
 		(diameter 0)
