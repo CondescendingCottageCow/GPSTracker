@@ -4096,6 +4096,16 @@
 		)
 		(uuid "2b3fc59b-fea2-441f-a4a4-fee4d8e6e509")
 	)
+	(text "hoi"
+		(exclude_from_sim no)
+		(at 152.908 98.044 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5d2cffdf-9a86-49a6-a3c4-70d259035f6e")
+	)
 	(junction
 		(at 62.23 20.32)
 		(diameter 0)
@@ -6130,7 +6140,7 @@
 	)
 	(symbol
 		(lib_id "L76L-M33:L76L-M33")
-		(at 102.87 160.02 0)
+		(at 109.22 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6139,7 +6149,7 @@
 		(fields_autoplaced yes)
 		(uuid "98de4422-ca02-4c9e-bb12-d36bb838a5ec")
 		(property "Reference" "U4"
-			(at 102.87 137.16 0)
+			(at 109.22 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6147,7 +6157,7 @@
 			)
 		)
 		(property "Value" "L76L-M33"
-			(at 102.87 139.7 0)
+			(at 109.22 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6155,7 +6165,7 @@
 			)
 		)
 		(property "Footprint" "L76L-M33:XCVR_L76L-M33"
-			(at 102.87 160.02 0)
+			(at 109.22 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6165,7 +6175,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 102.87 160.02 0)
+			(at 109.22 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6174,7 +6184,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 102.87 160.02 0)
+			(at 109.22 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6183,7 +6193,7 @@
 			)
 		)
 		(property "MF" "Quectel"
-			(at 102.87 160.02 0)
+			(at 109.22 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6193,7 +6203,7 @@
 			)
 		)
 		(property "Description_1" "Navigation BeiDou, Galileo, GLONASS, GPS, GNSS Transceiver Module 1.561GHz, 1.575GHz, 1.602GHz Antenna Not Included Surface Mount"
-			(at 102.87 160.02 0)
+			(at 109.22 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6203,7 +6213,7 @@
 			)
 		)
 		(property "Package" "Custom Quectel"
-			(at 102.87 160.02 0)
+			(at 109.22 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6213,7 +6223,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 102.87 160.02 0)
+			(at 109.22 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6223,7 +6233,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/L76LM33/Quectel/view-part/?ref=snap"
-			(at 102.87 160.02 0)
+			(at 109.22 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6233,7 +6243,7 @@
 			)
 		)
 		(property "MP" "L76LM33"
-			(at 102.87 160.02 0)
+			(at 109.22 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6243,7 +6253,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 102.87 160.02 0)
+			(at 109.22 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6253,7 +6263,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/L76LM33/Quectel/view-part/?ref=eda"
-			(at 102.87 160.02 0)
+			(at 109.22 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
